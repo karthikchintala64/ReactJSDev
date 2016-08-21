@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        // "**/1. BasicReact": true,
+        // "**/2. ReactRouter": true,
+        // "**/3. ReactFlux": true,
+        // "**/4. ReactRedux": true
+    }
+}
